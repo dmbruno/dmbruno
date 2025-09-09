@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Diego Martín Bruno
+# 👋 ¡Hola! Soy Diego M. Bruno
 
-🇦🇷 Salta, Argentina | ⚽ Amante del fútbol | 💙 Hincha de Boca Juniors
+🇦🇷 Salta, Argentina | ⚽ Amante del fútbol | 💙 Hincha de Boca
 
 ---
 
