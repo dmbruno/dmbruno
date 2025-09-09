@@ -1,30 +1,51 @@
-# 👋 ¡Hola! Soy Diego M. Bruno
+# 👋 ¡Hola! Soy Diego Martín Bruno
 
-🇦🇷 Salta, Argentina | ⚽ Amante del fútbol | 💙 Hincha de Boca
+🇦🇷 Salta, Argentina | ⚽ Fan del fútbol | 💙 Hincha de Boca Juniors
 
 ---
 
-¡Bienvenido/a a mi perfil!  
-Soy **Desarrollador Full Stack** con 3 años de experiencia, entusiasta y comprometido con el aprendizaje continuo. Mi formación viene de Coderhouse, Talento Tech y muchísimas horas aprendiendo por YouTube, siempre buscando nuevos desafíos y conocimientos en tecnología.
+![Profile Views](https://komarev.com/ghpvc/?username=dmbruno&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/dmbruno?style=social)
+![Top Langs](https://img.shields.io/github/languages/top/dmbruno/Ananda?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/diego-martin-bruno/)
+
+---
+
+¡Bienvenid@!  
+Soy **Desarrollador Full Stack** con 3 años de experiencia, entusiasta y comprometido con el aprendizaje continuo. Estudié en **Coderhouse** y **Talento Tech**, y gran parte de mi formación fue autodidacta (¡YouTube es mi aula favorita!). Siempre busco nuevos desafíos y disfruto trabajar en equipo, compartir ideas y aprender junto a otros.
 
 ---
 
 ## 🚀 Sobre mí
 
-- ✨ Apasionado por la programación y los proyectos colaborativos
-- 🎓 Formación en Coderhouse y Talento Tech
-- 🧑‍💻 Autodidacta (¡YouTube mi segunda casa!)
+- 🤝 Apasionado por la programación y los proyectos colaborativos
+- 🏫 Formación en Coderhouse y Talento Tech
+- 📚 Autodidacta, explorador de nuevas tecnologías
 - 🏆 3 años de experiencia desarrollando y aprendiendo
-- ⚽ Fanático del fútbol y de Boca Juniors
+- ⚽ Hincha de Boca, futbolero de corazón
 
 ---
 
 ## 🛠️ Herramientas y Lenguajes
 
-- **Lenguajes:** JavaScript, TypeScript, Python, Solidity (aprendiendo)
-- **Frontend:** React JS, React Native, HTML5, CSS3, y más
-- **Backend:** Node.js, Express, REST APIs, WebSockets, Python/Flask
-- **Blockchain/Web3:** Solidity, Smart Contracts, Ethereum Testnets _(en proceso de aprendizaje)_
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
+- **Lenguajes:** JavaScript, TypeScript, Python, Solidity (_en aprendizaje_)
+- **Frontend:** React JS, React Native, HTML5, CSS3, etc.
+- **Backend:** Node.js, Express, REST APIs, WebSockets
+- **Blockchain/Web3:** Solidity, Smart Contracts, Ethereum Testnets (_actualmente aprendiendo_)
 - **DevOps:** Docker, Git, GitHub Actions
 - **Bases de Datos:** MongoDB, PostgreSQL, Firebase, MySQL
 - **Otros:** JWT, frameworks modernos y herramientas actuales
@@ -49,7 +70,13 @@ Soy **Desarrollador Full Stack** con 3 años de experiencia, entusiasta y compro
 Me atrae el mundo descentralizado, la transparencia y las nuevas posibilidades que trae Web3.  
 Actualmente estoy aprendiendo sobre **Solidity**, **Smart Contracts** y **Ethereum**, con ganas de aportar y sumar a proyectos abiertos en este ecosistema.
 
-Soy consciente de que en este ámbito es fundamental estar en constante aprendizaje, especialmente cuando se trata de tendencias como Web3 y Blockchain. La tecnología avanza rápido, y mantenerse actualizado es clave para crecer y aportar valor real.
+Sé que en este ambiente tecnológico es clave estar siempre aprendiendo, adaptándose y explorando tendencias nuevas: Web3 y Blockchain avanzan muy rápido, así que mi meta es evolucionar junto con la tecnología y aportar valor real a la comunidad.
+
+**Metas concretas:**
+- Contribuir a proyectos Web3 open source
+- Desarrollar y auditar smart contracts seguros
+- Participar en comunidades y hackathons de Blockchain
+- Mantenerme actualizado y flexible para lo que viene
 
 ---
 
