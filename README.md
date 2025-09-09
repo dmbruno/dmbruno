@@ -54,7 +54,7 @@ Soy **Desarrollador Full Stack** con 3 años de experiencia, entusiasta y compro
 ## 💼 Proyectos Destacados
 
 - [Ananda](https://github.com/dmbruno/Ananda)  
-  Plataforma colaborativa para gestión de contenidos y equipos.
+  Plataforma para gestion de negocio comercial.
 
 - [UBM-BOT-WhatsApp](https://github.com/dmbruno/UBM-BOT-WhatsApp)  
   Automatización y gestión de mensajes para WhatsApp Business.
