@@ -22,7 +22,6 @@ Soy **Desarrollador Full Stack** con 3 años de experiencia, entusiasta y compro
 - 🏫 Formación en Coderhouse y Talento Tech
 - 📚 Autodidacta, explorador de nuevas tecnologías
 - 🏆 3 años de experiencia desarrollando y aprendiendo
-- ⚽ Hincha de Boca, futbolero de corazón
 
 ---
 
