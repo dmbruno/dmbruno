@@ -5,7 +5,7 @@
 ---
 
 ¡Bienvenido/a a mi perfil!  
-Soy **Desarrollador Full Stack** con 3 años de experiencia, curioso y autodidacta. Mi formación viene de Coderhouse, Talento Tech y muchísimas horas aprendiendo por YouTube, siempre buscando nuevos desafíos y conocimientos en tecnología.
+Soy **Desarrollador Full Stack** con 3 años de experiencia, entusiasta y comprometido con el aprendizaje continuo. Mi formación viene de Coderhouse, Talento Tech y muchísimas horas aprendiendo por YouTube, siempre buscando nuevos desafíos y conocimientos en tecnología.
 
 ---
 
@@ -47,7 +47,9 @@ Soy **Desarrollador Full Stack** con 3 años de experiencia, curioso y autodidac
 ## 🌱 Intereses y Metas en Web3 & Blockchain
 
 Me atrae el mundo descentralizado, la transparencia y las nuevas posibilidades que trae Web3.  
-Estoy aprendiendo sobre **Solidity**, **Smart Contracts** y **Ethereum**, con ganas de aportar y sumar a proyectos abiertos en este ecosistema.
+Actualmente estoy aprendiendo sobre **Solidity**, **Smart Contracts** y **Ethereum**, con ganas de aportar y sumar a proyectos abiertos en este ecosistema.
+
+Soy consciente de que en este ámbito es fundamental estar en constante aprendizaje, especialmente cuando se trata de tendencias como Web3 y Blockchain. La tecnología avanza rápido, y mantenerse actualizado es clave para crecer y aportar valor real.
 
 ---
 
@@ -59,4 +61,4 @@ Estoy aprendiendo sobre **Solidity**, **Smart Contracts** y **Ethereum**, con ga
 
 ---
 
-_Gracias por pasar por acá! Si te interesa conectar para proyectos, ideas o charlar de tecnología (o fútbol 😄), ¡escribime!_
+_¡Gracias por pasar por acá! Si te interesa conectar para proyectos, ideas o charlar de tecnología (o fútbol 😄), ¡escribime!_
