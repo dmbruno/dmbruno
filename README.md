@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Diego Martín Bruno
+# 👋 ¡Hola! Soy Diego M. Bruno
 
 🇦🇷 Salta, Argentina | ⚽ Fan del fútbol | 💙 Hincha de Boca
 
@@ -87,4 +87,4 @@ Sé que en este ambiente tecnológico es clave estar siempre aprendiendo, adapt�
 
 ---
 
-_¡Gracias por pasar por acá! Si te interesa conectar para proyectos, ideas o charlar de tecnología (o fútbol 😄), ¡escribime!_
+¡Gracias por pasar por acá! Si te interesa conectar para proyectos, ideas o charlar de tecnología (o fútbol 😄), escribime!
