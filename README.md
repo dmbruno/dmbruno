@@ -42,7 +42,7 @@ Soy **Desarrollador Full Stack** con 3 años de experiencia, entusiasta y compro
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
 - **Lenguajes:** JavaScript, TypeScript, Python, Solidity (_en aprendizaje_)
-- **Frontend:** React JS, React Native, HTML5, CSS3, etc.
+- **Frontend:** React JS, React Native, HTML5, CSS3,
 - **Backend:** Node.js, Express, REST APIs, WebSockets
 - **Blockchain/Web3:** Solidity, Smart Contracts, Ethereum Testnets (_actualmente aprendiendo_)
 - **DevOps:** Docker, Git, GitHub Actions
